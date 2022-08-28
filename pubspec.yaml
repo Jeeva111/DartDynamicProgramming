@@ -10,8 +10,7 @@ environment:
 #   path: ^1.8.0
 
 dependencies:
-  calculator:
-    path: 'packages/calculator'
+
 publish_to: none
 dev_dependencies:
   lints: ^2.0.0
